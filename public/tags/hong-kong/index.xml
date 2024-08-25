@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Hong Kong&#34; | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/hong-kong/</link>
+      <atom:link href="http://localhost:1313/tags/hong-kong/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Hong Kong&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 01:47:38 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6741429377955683711.png</url>
+      <title>&#34;Hong Kong&#34;</title>
+      <link>http://localhost:1313/tags/hong-kong/</link>
+    </image>
+    
+    <item>
+      <title>Robots and Protest: Does Increased Protest Among Chinese Workers Result in More Automation?</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-robot-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 01:47:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-robot-2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: The rising level of automation has increasingly attracted scholar’s attention. On the other hand, there are many studies of the consequences of social movements, but relatively fewer studies focus on their economic consequences, and even fewer studies have examined their consequences on automation. This article bridges the gap between the two literatures by hypothesizing that a rising number of labor protests will lead to a higher level of automation.  We argue that political economy factors influence the adoption of more automation. Protests anticipate higher wages and labor costs; contest for social power with employers and the state, and, in extreme cases, pose a public relations challenge to employers, which will likely push employers to replace human workers with robots. We empirically test the relationship by using two protest event datasets in China, the China Labour Bulletin (CLB) and Collective Action from Social Media (CASM), and robot data from the International Federation of Robotics (IFR). Statistical analysis shows that provinces and industries that have more protests also tend to concentrate more robots, and the results are robust to different specifications and placebo tests. The findings have implications for both understanding the causes of rising automation and the consequences of social protests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal Effect of Witnessing Political Protest on Civic Engagement</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-causal-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-causal-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

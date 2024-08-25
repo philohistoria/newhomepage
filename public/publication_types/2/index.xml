@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 22:00:58 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6741429377955683711.png</url>
+      <title>2</title>
+      <link>http://localhost:1313/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Underrepresentation and Misrepresentation: Selection and Description Bias in Protest Reporting by Government and News Media on Weibo</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-underrepresentation-2023/</link>
+      <pubDate>Sat, 28 Jan 2023 22:00:58 +0800</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-underrepresentation-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Clustering: An Unsupervised Approach to Categorize Visual Data in Social Science Research</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-image-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-image-2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Automated image analysis has received increasing attention in social scientific
+research, yet existing scholarship has focused on the application of supervised
+machine learning to classify images into predefined categories. This study focuses
+on the task of unsupervised image clustering, which automatically finds categories
+from image data. First, we review the steps to perform image clustering, and then
+we focus on the key challenge of performing unsupervised image clustering&amp;mdash;finding
+low-dimensional representations of images. We present several methods of extracting
+low-dimensional representations of images, including the traditional bag-of-visual-words
+model, self-supervised learning, and transfer learning. We compare these methods
+using two datasets containing images related to protests in China (from Sina Weibo,
+Chinese Twitter) and to climate change(from Instagram). Results show that transfer
+learning significantly outperforms other methods. The dataset used in the pretrained
+model critically determines what categories algorithms can discover.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authoritarian Responsiveness and Political Attitudes during COVID-19: Evidence from Weibo and a Survey Experiment</title>
+      <link>http://localhost:1313/publication/journal-article/wei-authoritarian-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/wei-authoritarian-2021/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: How do citizens react to authoritarian responsiveness? To investigate this question, we study how Chinese citizens reacted to a novel government initiative which enabled social media users to publicly post requests for COVID-related medical assistance. To understand the effect of this initiative on public perceptions of government effectiveness, we employ a two-part empirical strategy. First, we conduct a survey experiment in which we directly expose subjects to real help-seeking posts, in which we find that viewing posts did not improve subjects’ ratings of government effectiveness, and in some cases worsened them. Second, we analyze over 10,000 real-world Weibo posts to understand the political orientation of the discourse around help-seekers. We find that negative and politically critical posts far outweighed positive and laudatory posts, complementing our survey experiment results. To contextualize our results, we develop a theoretic framework to understand the effects of different types of responsiveness on citizens’ political attitudes. We suggest that citizens’ negative reactions in this case were primarily influenced by public demands for help, which illuminated existing problems and failures of governance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Using Machine Learning Classification as a Variable in Regression Leads to Attenuation Bias and What to Do About It</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-how-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-how-2021/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Social scientists have increasingly been applying machine learning algorithms to &amp;ldquo;big data&amp;rdquo; to measure theoretical concepts they cannot easily measure before, and then been using these machine-predicted variables in a regression. This article first demonstrates that directly inserting binary predictions (i.e., classification) without regard for prediction error will generally lead to attenuation biases of either slope coefficients or marginal effect estimates.
+We then propose several estimators to obtain consistent estimates of coefficients.
+The estimators require the existence of validation data, of which researchers have both machine prediction and true values.This validation data is either automatically available during training algorithms or can be easily obtained.
+Monte Carlo simulations demonstrate the effectiveness of the proposed estimators.
+Finally, we summarize the usage pattern of machine learning predictions in 18 recent publications in top social science journals, apply our proposed estimators to two of them, and offer some practical recommendations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CASM: A Deep Learning Approach for Identifying Collective Action Events with Text and Image Data from Social Media</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-casm-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-casm-2019/</guid>
+      <description>&lt;p&gt;There are three great invited commentaries to our article by &lt;a href=&#34;https://zacharyst.com/&#34;&gt;Zachary C. Steinert-Threlkeld&lt;/a&gt;, &lt;a href=&#34;https://www.wzb.eu/en/persons/swen-hutter&#34;&gt;Swen Hutter&lt;/a&gt;, and &lt;a href=&#34;https://www.ssc.wisc.edu/~oliver/&#34;&gt;Pamela Oliver&lt;/a&gt;. &lt;a href=&#34;https://journals.sagepub.com/doi/citedby/10.1177/0081175019860244&#34;&gt;Read them and our response here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Protest event analysis is an important method for the study of collective action and social movements and typically draws on traditional media reports as the data source. We introduce collective action from social media (CASM)—a system that uses convolutional neural networks on image data and recurrent neural networks with long short-term memory on text data in a two-stage classifier to identify social media posts about offline collective action. We implement CASM on Chinese social media data and identify more than 100,000 collective action events from 2010 to 2017 (CASM-China). We evaluate the performance of CASM through cross-validation, out-of-sample validation, and comparisons with other protest data sets. We assess the effect of online censorship and find it does not substantially limit our identification of events. Compared to other protest data sets, CASM-China identifies relatively more rural, land-related protests and relatively few collective action events related to ethnic and religious conflict.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Addressing Selection Bias in Event Studies with General-Purpose Social Media Panels</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-addressing-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-addressing-2018/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Data from Twitter have been employed in prior research to study the impacts of events. Conventionally, researchers use keyword-based samples of tweets to create a panel of Twitter users who mention event-related keywords during and aer an event. However, the keyword-based sampling is limited in its objectivity dimension of data and information quality. First, the technique suers from selection bias since users who discuss an event are already more likely to discuss event-related topics beforehand. Second, there are no viable control groups for comparison to a keyword-based sample of Twitter users. We propose an alternative sampling approach to construct panels of users defined by their geolocation. Geolocated panels are exogenous to the keywords in users&amp;rsquo; tweets, resulting in less selection bias than the keyword panel method. Geolocated panels allow us to follow within-person changes over time and enable the creation of comparison groups. We compare different panels in two real-world settings: response to mass shootings and TV advertising. We show the strength of the selection biases of keyword-panels. Then, we empirically illustrate how geolocated panels reduce selection biases and allow meaningful comparison groups regarding the impact of the studied events. We are the first to provide a clear, empirical example of how a better panel-selection design, based on an exogenous variable such as geography, both reduces selection bias compared to the current state of the art and increases the value of Twitter research for studying events. While we advocate for the use of geolocated panels, we also discuss its weaknesses and application scenario seriously. This paper also calls attention to the importance of selection bias in impacting the objectivity of social media data&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

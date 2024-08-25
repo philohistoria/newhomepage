@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;China&#34; | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/china/</link>
+      <atom:link href="http://localhost:1313/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;China&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 01:47:38 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6741429377955683711.png</url>
+      <title>&#34;China&#34;</title>
+      <link>http://localhost:1313/tags/china/</link>
+    </image>
+    
+    <item>
+      <title>Robots and Protest: Does Increased Protest Among Chinese Workers Result in More Automation?</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-robot-2022/</link>
+      <pubDate>Fri, 08 Apr 2022 01:47:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-robot-2022/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: The rising level of automation has increasingly attracted scholar’s attention. On the other hand, there are many studies of the consequences of social movements, but relatively fewer studies focus on their economic consequences, and even fewer studies have examined their consequences on automation. This article bridges the gap between the two literatures by hypothesizing that a rising number of labor protests will lead to a higher level of automation.  We argue that political economy factors influence the adoption of more automation. Protests anticipate higher wages and labor costs; contest for social power with employers and the state, and, in extreme cases, pose a public relations challenge to employers, which will likely push employers to replace human workers with robots. We empirically test the relationship by using two protest event datasets in China, the China Labour Bulletin (CLB) and Collective Action from Social Media (CASM), and robot data from the International Federation of Robotics (IFR). Statistical analysis shows that provinces and industries that have more protests also tend to concentrate more robots, and the results are robust to different specifications and placebo tests. The findings have implications for both understanding the causes of rising automation and the consequences of social protests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authoritarian Responsiveness and Political Attitudes during COVID-19: Evidence from Weibo and a Survey Experiment</title>
+      <link>http://localhost:1313/publication/journal-article/wei-authoritarian-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/wei-authoritarian-2021/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: How do citizens react to authoritarian responsiveness? To investigate this question, we study how Chinese citizens reacted to a novel government initiative which enabled social media users to publicly post requests for COVID-related medical assistance. To understand the effect of this initiative on public perceptions of government effectiveness, we employ a two-part empirical strategy. First, we conduct a survey experiment in which we directly expose subjects to real help-seeking posts, in which we find that viewing posts did not improve subjects’ ratings of government effectiveness, and in some cases worsened them. Second, we analyze over 10,000 real-world Weibo posts to understand the political orientation of the discourse around help-seekers. We find that negative and politically critical posts far outweighed positive and laudatory posts, complementing our survey experiment results. To contextualize our results, we develop a theoretic framework to understand the effects of different types of responsiveness on citizens’ political attitudes. We suggest that citizens’ negative reactions in this case were primarily influenced by public demands for help, which illuminated existing problems and failures of governance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CASM: A Deep Learning Approach for Identifying Collective Action Events with Text and Image Data from Social Media</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-casm-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-casm-2019/</guid>
+      <description>&lt;p&gt;There are three great invited commentaries to our article by &lt;a href=&#34;https://zacharyst.com/&#34;&gt;Zachary C. Steinert-Threlkeld&lt;/a&gt;, &lt;a href=&#34;https://www.wzb.eu/en/persons/swen-hutter&#34;&gt;Swen Hutter&lt;/a&gt;, and &lt;a href=&#34;https://www.ssc.wisc.edu/~oliver/&#34;&gt;Pamela Oliver&lt;/a&gt;. &lt;a href=&#34;https://journals.sagepub.com/doi/citedby/10.1177/0081175019860244&#34;&gt;Read them and our response here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Protest event analysis is an important method for the study of collective action and social movements and typically draws on traditional media reports as the data source. We introduce collective action from social media (CASM)—a system that uses convolutional neural networks on image data and recurrent neural networks with long short-term memory on text data in a two-stage classifier to identify social media posts about offline collective action. We implement CASM on Chinese social media data and identify more than 100,000 collective action events from 2010 to 2017 (CASM-China). We evaluate the performance of CASM through cross-validation, out-of-sample validation, and comparisons with other protest data sets. We assess the effect of online censorship and find it does not substantially limit our identification of events. Compared to other protest data sets, CASM-China identifies relatively more rural, land-related protests and relatively few collective action events related to ethnic and religious conflict.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal Effect of Witnessing Political Protest on Civic Engagement</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-causal-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-causal-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

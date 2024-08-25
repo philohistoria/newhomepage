@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Experiment&#34; | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/experiment/</link>
+      <atom:link href="http://localhost:1313/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Experiment&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6741429377955683711.png</url>
+      <title>&#34;Experiment&#34;</title>
+      <link>http://localhost:1313/tags/experiment/</link>
+    </image>
+    
+    <item>
+      <title>Authoritarian Responsiveness and Political Attitudes during COVID-19: Evidence from Weibo and a Survey Experiment</title>
+      <link>http://localhost:1313/publication/journal-article/wei-authoritarian-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/wei-authoritarian-2021/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: How do citizens react to authoritarian responsiveness? To investigate this question, we study how Chinese citizens reacted to a novel government initiative which enabled social media users to publicly post requests for COVID-related medical assistance. To understand the effect of this initiative on public perceptions of government effectiveness, we employ a two-part empirical strategy. First, we conduct a survey experiment in which we directly expose subjects to real help-seeking posts, in which we find that viewing posts did not improve subjects’ ratings of government effectiveness, and in some cases worsened them. Second, we analyze over 10,000 real-world Weibo posts to understand the political orientation of the discourse around help-seekers. We find that negative and politically critical posts far outweighed positive and laudatory posts, complementing our survey experiment results. To contextualize our results, we develop a theoretic framework to understand the effects of different types of responsiveness on citizens’ political attitudes. We suggest that citizens’ negative reactions in this case were primarily influenced by public demands for help, which illuminated existing problems and failures of governance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

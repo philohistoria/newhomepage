@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Selection Bias&#34; | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/selection-bias/</link>
+      <atom:link href="http://localhost:1313/tags/selection-bias/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Selection Bias&#34;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu6741429377955683711.png</url>
+      <title>&#34;Selection Bias&#34;</title>
+      <link>http://localhost:1313/tags/selection-bias/</link>
+    </image>
+    
+    <item>
+      <title>Addressing Selection Bias in Event Studies with General-Purpose Social Media Panels</title>
+      <link>http://localhost:1313/publication/journal-article/zhang-addressing-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/zhang-addressing-2018/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: Data from Twitter have been employed in prior research to study the impacts of events. Conventionally, researchers use keyword-based samples of tweets to create a panel of Twitter users who mention event-related keywords during and aer an event. However, the keyword-based sampling is limited in its objectivity dimension of data and information quality. First, the technique suers from selection bias since users who discuss an event are already more likely to discuss event-related topics beforehand. Second, there are no viable control groups for comparison to a keyword-based sample of Twitter users. We propose an alternative sampling approach to construct panels of users defined by their geolocation. Geolocated panels are exogenous to the keywords in users&amp;rsquo; tweets, resulting in less selection bias than the keyword panel method. Geolocated panels allow us to follow within-person changes over time and enable the creation of comparison groups. We compare different panels in two real-world settings: response to mass shootings and TV advertising. We show the strength of the selection biases of keyword-panels. Then, we empirically illustrate how geolocated panels reduce selection biases and allow meaningful comparison groups regarding the impact of the studied events. We are the first to provide a clear, empirical example of how a better panel-selection design, based on an exogenous variable such as geography, both reduces selection bias compared to the current state of the art and increases the value of Twitter research for studying events. While we advocate for the use of geolocated panels, we also discuss its weaknesses and application scenario seriously. This paper also calls attention to the importance of selection bias in impacting the objectivity of social media data&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
